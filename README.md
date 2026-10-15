@@ -44,3 +44,6 @@ Arachnet focuses on identifying the following classes of vulnerabilities:
   API9: Improper Inventory Management
   
   API10: Unsafe Consumption of APIs
+
+
+<img width="961" height="1184" alt="image" src="https://github.com/user-attachments/assets/4d316d75-7cfc-4b9c-af8d-f1c5ad3b4c39" />
